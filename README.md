@@ -23,3 +23,6 @@
 `sudo service mongodb start`
 `sudo service mongodb stop`
 `sudo service mongodb restart`
+
+#### githubのssh登録について
+  * <http://monsat.hatenablog.com/entry/generating-ssh-keys-for-github>
