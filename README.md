@@ -7,7 +7,7 @@
   * idle: `sudo apt-get idle`
 
 #### MongoDBについて  
-  * 公開鍵の設定
+  * 公開鍵の設定  
 `sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10`
 
   * mongodb.listの作成  
