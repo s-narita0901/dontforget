@@ -3,6 +3,7 @@
   * githubの使い方はネットで調べた  gitの使い方はドットインストールで確認できる
 
 #### 環境構築について
+  * git: `sudo apt-get git`
   * python: `sudo apt-get python2.7`
   * idle: `sudo apt-get idle`
 
