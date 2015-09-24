@@ -18,7 +18,7 @@
 `sudo apt-get update`
 
   * ○○をインストールする。  
-`sudo apt-get ○○`
+`sudo apt-get istall ○○`
 
   * mongodbの開始、停止、再起動。  
 `sudo service mongodb start`
